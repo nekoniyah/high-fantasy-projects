@@ -6,8 +6,9 @@ Find the list [here](https://github.com/nekoniyah/high-fantasy-projects/blob/mai
 # Can I add my project?
 Yes! Absolutely! As long as you follow these criterias:
 - No NSFW content, explicit or implicit.
-- Must at least promote some anthropomorphic characters
+- Must at least promote some anthropomorphic characters.
 - Must be in a Japanese or other graphical style from Asia (donghua, etc.)
+- Must be in the Fantasy, Urban Fantasy or the High Fantasy genre.
 - Must be:
   - a video game
   - or a tabletop game

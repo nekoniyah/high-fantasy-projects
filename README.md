@@ -1,7 +1,7 @@
 # High Fantasy List
 An open list of games about diversity, furry or anime stuff and fantasy vibe!
 
-Find the list here: 
+Find the list (https://github.com/nekoniyah/high-fantasy-projects/LIST.md)[here]
 
 # Can I add my project?
 Yes! Absolutely! As long as you follow these criterias:
